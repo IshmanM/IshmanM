@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IshmanM
-- 👀 I’m interested in Robotics
+- 👀 I’m interested in Robotics and High Speed Communication
 - 🌱 I’m currently learning Computer Vision, Hardware Design, and Mechanical Design
 - 💞️ I’m looking to collaborate on projects involving the design of mobile manipulators, haptic devices, and exoskeletons
 
