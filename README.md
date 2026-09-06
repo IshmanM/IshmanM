@@ -1,6 +1,6 @@
 # Hi, I'm Ishman Mann 👋
 
-I'm an engineer interested in **robotics, autonomous systems, mechatronics, intelligent machines, and multidisciplinary system design**.
+I'm an inventor interested in **robotics, autonomous systems, mechatronics, intelligent machines, and multidisciplinary system design**.
 
 My interests span the full engineering stack, including:
 
