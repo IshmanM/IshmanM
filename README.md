@@ -23,7 +23,7 @@ A more comprehensive collection of my work can be found in my [Technical Portfol
 
 - **Robotics & Computer Vision:** [Paper Plane Tracker](https://github.com/IshmanM/paper_plane_tracker)
 - **Robotics:** [ROS 2 Gazebo Navigation Demo](https://github.com/IshmanM/ros2_gazebo_nav_demo)
-- *Deep Learning:** [U-Net Semantic Segmentation](https://github.com/IshmanM/UNET-semantic-segmentation)
+- **Deep Learning:** [U-Net Semantic Segmentation](https://github.com/IshmanM/UNET-semantic-segmentation)
 - **Embedded / Sensor Systems:** [Payload Sensor Module](https://github.com/IshmanM/Payload-Sensor-Module)
 - **RF & Communications:** [ELRS Gemini Xrossband TX](https://github.com/IshmanM/ELRS-Gemini-Xrossband-TX)
 - **Power Electronics:** [12S 3A Drone BEC](https://github.com/IshmanM/12S-3A-Drone-BEC)
